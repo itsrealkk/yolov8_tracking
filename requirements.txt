@@ -42,7 +42,7 @@ filterpy
 # Export ----------------------------------------------------------------------
 onnx>=1.9.0               # ONNX export
 onnx-simplifier>=0.4.1    # ONNX simplifier
-# nvidia-pyindex            # TensorRT export
+nvidia-pyindex            # TensorRT export
 nvidia-tensorrt           # TensorRT export
 # openvino-dev              # OpenVINO export
 
